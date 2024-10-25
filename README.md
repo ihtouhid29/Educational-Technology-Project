@@ -1,2 +1,2 @@
-# Projects
+# EdTech Projects
 Academic Projects
